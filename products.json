@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Netflix Premium Account",
+    "desc": "Ultra HD Streaming with 4 screens.",
+    "price": 499,
+    "discount_price": 399,
+    "category": "Streaming",
+    "images": [
+      "https://files.catbox.moe/rs1npt.jpg"
+    ],
+    "video": null,
+    "qr_code": "https://files.catbox.moe/5x53bu.jpg",
+    "success_message": "✅ Your Netflix Premium account has been activated. Enjoy streaming!"
+  },
+  {
+    "id": 2,
+    "title": "Spotify Premium",
+    "desc": "Unlimited ad-free music streaming.",
+    "price": 299,
+    "discount_price": 249,
+    "category": "Music",
+    "images": [
+      "https://files.catbox.moe/rs1npt.jpg"
+    ],
+    "video": null,
+    "qr_code": "https://files.catbox.moe/5x53bu.jpg",
+    "success_message": "🎵 Your Spotify Premium is now active. Login with the given credentials."
+  },
+  {
+    "id": 3,
+    "title": "PUBG UC 660",
+    "desc": "Instant delivery of 660 UC.",
+    "price": 799,
+    "discount_price": 749,
+    "category": "Gaming",
+    "images": [
+      "https://files.catbox.moe/rs1npt.jpg"
+    ],
+    "video": null,
+    "qr_code": "https://files.catbox.moe/5x53bu.jpg",
+    "success_message": "🎮 PUBG UC 660 has been successfully credited to your account."
+  }
+]
