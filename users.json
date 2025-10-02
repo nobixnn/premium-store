@@ -1,0 +1,12 @@
+[
+  {
+    "username": "testuser",
+    "password": "test123", 
+    "telegram_id": "123456789" 
+  },
+  {
+    "username": "tushar",
+    "password": "tushar@123",
+    "telegram_id": "8150875959"
+  }
+]
